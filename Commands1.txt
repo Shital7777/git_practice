@@ -3,3 +3,6 @@ git add
 git commit -m ""
 git checkout -b dev
 git status
+#####
+git clone git url
+git pull origin main#####
